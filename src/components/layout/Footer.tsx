@@ -9,16 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <img
-                src="/cloud-tech-logo.png"
-                alt="CLOUD22"
-                width={40}
-                height={40}
-                className="w-[40px] h-[40px] invert"
-              />
-              <span className="text-xl font-bold">CLOUD22</span>
-            </div>
+          
             <p className="text-gray-400 mb-4">
               Innovative IT solutions for businesses of all sizes. We help you leverage technology to achieve your business goals.
             </p>
