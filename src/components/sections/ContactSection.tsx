@@ -116,7 +116,7 @@ const ContactSection = () => {
                     <div>
                       <h4 className="font-semibold text-blue-100">Office</h4>
                       <p className="mt-1">Dubai, Meydan Freezone</p>
-                      <p> Nad Al Sheba 1 - Dubai - United Arab Emirates</p>
+                      <p> Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, U.A.E.</p>
                     </div>
                   </div>
                 </div>
