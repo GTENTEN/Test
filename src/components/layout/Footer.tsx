@@ -106,7 +106,7 @@ const Footer = () => {
                 </svg>
                 <span className="text-gray-400">
                   Dubai, Meydan Freezone<br />
-                  United Arab Emirates
+                  Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, U.A.E.
                 </span>
               </li>
               <li className="flex items-center">
