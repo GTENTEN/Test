@@ -89,7 +89,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-100">Phone</h4>
-                      <p className="mt-1">+1 (555) 123-4567</p>
+                      <p className="mt-1">+971 58 250 16 00</p>
                     </div>
                   </div>
 
@@ -102,7 +102,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-100">Email</h4>
-                      <p className="mt-1">info@cloud22.com</p>
+                      <p className="mt-1">hq@cloud22.ae</p>
                     </div>
                   </div>
 
@@ -115,8 +115,8 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-100">Office</h4>
-                      <p className="mt-1">123 Tech Street, Suite 456</p>
-                      <p>San Francisco, CA 94107</p>
+                      <p className="mt-1">Dubai, Meydan Freezone</p>
+                      <p> Nad Al Sheba 1 - Dubai - United Arab Emirates</p>
                     </div>
                   </div>
                 </div>
