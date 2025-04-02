@@ -6,13 +6,7 @@ const Header = () => {
     <header className="fixed top-0 w-full bg-white/80 backdrop-blur-sm z-50 border-b">
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <img
-            src="/cloud-tech-logo.png"
-            alt="CLOUD22"
-            width={50}
-            height={50}
-            className="w-[50px] h-[50px]"
-          />
+        
           <span className="text-2xl font-bold text-blue-600">CLOUD22</span>
         </div>
 
